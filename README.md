@@ -16,6 +16,8 @@
       - Test training model on small image data first
       - write out in depth plan
           - Make an image classifyer first
+## <ins> New Ideas: </ins> <br>
+
 ### Learning C++
 - <ins> Ideas </ins> :
     - naughts and crosses game
