@@ -1,6 +1,16 @@
 # Side-Project-Ideas <br> 
 
-### ML model using Matlab packages for extracting Hofbauer cell data (non-uniform cell types)
+## <ins> Extending Past Projects: </ins> <br>
+
+### 1 - Sequence Data from Bristol Research project
+- <ins> Need to </ins>:
+  - Compile nematode sequence data
+  - Extend sequence alignment tool from year 2 project
+  - Create taxonomic tree (Expected vs Observed)
+
+
+
+### 2 - ML model using Matlab packages for extracting Hofbauer cell data (non-uniform cell types)
   - <ins> Need to </ins> :
       - Gain access to Loke CTR image data
       - Test training model on small image data first
@@ -12,6 +22,9 @@
     - Snake game (who doesn't love snake?)
 
  ### Others
- - Weather app interface
- - Extended UI for scheduler
+ - <ins> Interface Projects </ins> :
+   - Weather app interface
+   - Extended UI for scheduler
+  
+
 
