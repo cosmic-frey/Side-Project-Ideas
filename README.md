@@ -2,7 +2,7 @@
 
 ## <ins> Extending Past Projects: </ins> <br>
 
-### 1 - Sequence Data from Bristol Research project
+### 1 - Using Sequence Data from Bristol Research 
 - <ins> Need to </ins>:
   - Compile nematode sequence data
   - Extend sequence alignment tool from year 2 project
