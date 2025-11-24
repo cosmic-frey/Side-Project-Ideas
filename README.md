@@ -23,12 +23,12 @@
     - naughts and crosses game
     - Snake game (who doesn't love snake?)
 
- ### Others
+ ### Others:
  - <ins> Interface Projects </ins> :
    - Weather app interface
    - Extended UI for scheduler
   
-## <ins> Data Analysis Projects: </ins>
+## <ins> Data Analysis Projects </ins>
 - Youtube Analytics data
 - Analysis of social media data (Instagram)
   
