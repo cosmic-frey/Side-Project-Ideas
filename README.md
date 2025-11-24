@@ -15,7 +15,7 @@
       - Gain access to Loke CTR image data
       - Test training model on small image data first
       - write out in depth plan
-          - Make an image classifyer first
+          - Make an image classifier first
 ## <ins> New Ideas: </ins> <br>
 
 ### Learning C++
@@ -27,6 +27,10 @@
  - <ins> Interface Projects </ins> :
    - Weather app interface
    - Extended UI for scheduler
+  
+## <ins> Data Analysis Projects: </ins>
+- Youtube Analytics data
+- Analysis of social media data (Instagram)
   
 
 
