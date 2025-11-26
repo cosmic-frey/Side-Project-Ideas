@@ -30,6 +30,7 @@
    - Weather app interface
    - Extended UI for scheduler
    - 20 questions Python game
+- <ins> Other </ins> :   
    - Hackathon projects
    - Python chatbot with an application (customer service, etc)
      
