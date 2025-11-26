@@ -20,13 +20,19 @@
 
 ### Learning C++
 - <ins> Ideas </ins> :
-    - naughts and crosses game
+    - naughts and crosses 
+    - Online calculator
+    - Hangman
     - Snake game (who doesn't love snake?)
 
  ### Others:
  - <ins> Interface Projects </ins> :
    - Weather app interface
    - Extended UI for scheduler
+   - 20 questions Python game
+   - Hackathon projects
+   - Python chatbot with an application (customer service, etc)
+     
   
 ## <ins> Data Analysis Projects </ins>
 - Youtube Analytics data
