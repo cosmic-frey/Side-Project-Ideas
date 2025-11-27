@@ -23,7 +23,7 @@
     - naughts and crosses 
     - Online calculator
     - Hangman
-    - Snake game (who doesn't love snake?)
+   
 
  ### Others:
  - <ins> Interface Projects </ins> :
